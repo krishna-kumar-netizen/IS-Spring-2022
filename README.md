@@ -7,3 +7,5 @@ It also served the purpose of understanding how to imporve the algorithm using h
 
 Also refering to nptel course - http://www.cse.iitm.ac.in/~miteshk/CS6910.html. 
 This course is deeper than the deep learning course by deepleaerning.ai
+
+Refering to following page for assignments - https://wandb.ai/miteshk/assignments/reportlist
